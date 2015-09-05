@@ -3,7 +3,7 @@
 /* basic typesetting -- resetting default styles */
 body {
 	font: 12px Geneva, Arial, Helvetica, sans-serif;
-	background: #c8deec url(background.jpg) top left repeat-x;
+	background: #fff;
 	padding: 0;
 	margin: 10px 0;
 }
@@ -48,8 +48,8 @@ a:hover, a:active {color: #6ab5da;}
 	border: 3px solid #fff;
 	padding: 10px;
 	height: 110px;
-	background: #5AADC5;
-	color: #fff;
+	background: #f6f7f2;
+	color: black;
 }
 
 #masthead h1 { padding:0px;
@@ -96,7 +96,7 @@ a:hover, a:active {color: #6ab5da;}
 
 	background: #f6f7f2;
 	}
-#maincontent .quotation	{ font-size: 1.5em; color: #00C7AE;	
+#maincontent .quotation	{ font-size: 1.5em; color: #5c5c5c;	
 							font-style: oblique;font-variant: small-caps; }
 
 
@@ -118,7 +118,7 @@ ul#navigation {
 	list-style: none;
 	font-size: 1.2em;
 	border-bottom: 3px solid #fff;
-	background: #BBC73B;
+	background: #5c5c5c;
 	margin: 0;
 	padding: 0;
 	width: 100%;

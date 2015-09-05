@@ -6,7 +6,7 @@ function updates() {
           <h3>Upcoming events</h3>\n\
           <dl>\n\
             <dt>&nbsp;</dt>\n\
-            <dt> Fall 2014<br />\n\
+            <dt> Fall 2015<br />\n\
             </dt>\n\
             <dt>&nbsp; </dt>\n\
             <dd><strong>Dinners</strong></dd>\n\
@@ -15,7 +15,7 @@ function updates() {
               <br />\n\
             </dd>\n\
             <dd><strong>Bible Studies</strong></dd>\n\
-            <dd>In Fall 2014 we will be going through an overview of Ephesians and Colossians<br />\n\
+            <dd>In Fall 2015 we will be going through an overview of God\'s full salvation in Romans<br />\n\
               <br />\n\
               -<strong>North Campus</strong> Time and Location is TBD. Check back soon for more details or <a href="contact_us.htm">contact us</a> for more information<br /><br />\n\
               -<strong> Central Campus </strong>Time and Location is TBD. Check back soon for more details or <a href="contact_us.htm">contact us</a> for more information<br /><br />\n\
